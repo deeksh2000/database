@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Menu>menu_items</Menu>
+    <FIELD2>restaurant_id</FIELD2>
+    <FIELD3>price</FIELD3>
+    <FIELD4>item_description</FIELD4>
+  </row>
+  <row>
+    <Menu>biryani</Menu>
+    <FIELD2>1724</FIELD2>
+    <FIELD3>12.99</FIELD3>
+    <FIELD4>rice item</FIELD4>
+  </row>
+  <row>
+    <Menu>salad</Menu>
+    <FIELD2>2610</FIELD2>
+    <FIELD3>15.99</FIELD3>
+    <FIELD4>vegetables </FIELD4>
+  </row>
+  <row>
+    <Menu>noodles</Menu>
+    <FIELD2>1729</FIELD2>
+    <FIELD3>9.99</FIELD3>
+    <FIELD4>noodeles with vegies</FIELD4>
+  </row>
+  <row>
+    <Menu>pizza</Menu>
+    <FIELD2>2819</FIELD2>
+    <FIELD3>8.99</FIELD3>
+    <FIELD4>cheese pizza</FIELD4>
+  </row>
+</root>

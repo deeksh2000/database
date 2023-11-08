@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Restaurant>Restaurant_id</Restaurant>
+    <FIELD2>restaurant_name</FIELD2>
+    <FIELD3>rsetaurant_num</FIELD3>
+    <FIELD4>restaurant_location</FIELD4>
+  </row>
+  <row>
+    <Restaurant>1724</Restaurant>
+    <FIELD2>indian_food</FIELD2>
+    <FIELD3>8769854563</FIELD3>
+    <FIELD4>romeiville</FIELD4>
+  </row>
+  <row>
+    <Restaurant>2610</Restaurant>
+    <FIELD2>mexican_food</FIELD2>
+    <FIELD3>9763567682</FIELD3>
+    <FIELD4>neperville</FIELD4>
+  </row>
+  <row>
+    <Restaurant>1729</Restaurant>
+    <FIELD2>chineese_food</FIELD2>
+    <FIELD3>3789765645</FIELD3>
+    <FIELD4>downersgrove</FIELD4>
+  </row>
+  <row>
+    <Restaurant>2819</Restaurant>
+    <FIELD2>american_food</FIELD2>
+    <FIELD3>7680356721</FIELD3>
+    <FIELD4>joliet</FIELD4>
+  </row>
+</root>

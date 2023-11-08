@@ -1,0 +1,6 @@
+Order,,,,
+order_id,customer_id,payment_Status,order_status,order_date
+345,1010,pending,preparing food,8-Nov
+567,1011,sucessful,ready for delivery,7-Nov
+789,1022,pending,In kitchen,6-Nov
+432,1033,succeful,delivered,5-Nov

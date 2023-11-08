@@ -1,0 +1,6 @@
+Customer,,,,
+Customer_id,customer_name,customer_email,customer_address,order_id
+1010,Malik,malik@yahoo.com,romeoville,345
+1011,jason,jason@gmail.com,nepervile,567
+1022,mike,mike@gmail.com,downersgrove,789
+1033,dany,dany@gmail.com,joliet,432
