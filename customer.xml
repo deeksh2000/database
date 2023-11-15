@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Customer_details>Customer_id</Customer_details>
+    <FIELD2>Cust_name</FIELD2>
+    <FIELD3>address</FIELD3>
+    <FIELD4>phone</FIELD4>
+  </row>
+  <row>
+    <Customer_details>123</Customer_details>
+    <FIELD2>john</FIELD2>
+    <FIELD3>romeoville</FIELD3>
+    <FIELD4>8738723662</FIELD4>
+  </row>
+  <row>
+    <Customer_details>456</Customer_details>
+    <FIELD2>stephen</FIELD2>
+    <FIELD3>neperville</FIELD3>
+    <FIELD4>4454353453</FIELD4>
+  </row>
+  <row>
+    <Customer_details>874</Customer_details>
+    <FIELD2>Mike</FIELD2>
+    <FIELD3>chicago</FIELD3>
+    <FIELD4>8444876666</FIELD4>
+  </row>
+  <row>
+    <Customer_details>98</Customer_details>
+    <FIELD2>Nancy</FIELD2>
+    <FIELD3>downtown</FIELD3>
+    <FIELD4>8654858535</FIELD4>
+  </row>
+</root>

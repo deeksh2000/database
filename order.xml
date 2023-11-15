@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <ORDER>order_id</ORDER>
+    <FIELD2>home_id</FIELD2>
+    <FIELD3>Order_date</FIELD3>
+    <FIELD4>delivery_date</FIELD4>
+    <FIELD5>payment_status</FIELD5>
+  </row>
+  <row>
+    <ORDER>888</ORDER>
+    <FIELD2>2825</FIELD2>
+    <FIELD3>11/2/2023</FIELD3>
+    <FIELD4>1/1/2024</FIELD4>
+    <FIELD5>done</FIELD5>
+  </row>
+  <row>
+    <ORDER>666</ORDER>
+    <FIELD2>2610</FIELD2>
+    <FIELD3>10/30/2023</FIELD3>
+    <FIELD4>12/30/2023</FIELD4>
+    <FIELD5>pending</FIELD5>
+  </row>
+  <row>
+    <ORDER>777</ORDER>
+    <FIELD2>2987</FIELD2>
+    <FIELD3>11/10/2023</FIELD3>
+    <FIELD4>1/10/2024</FIELD4>
+    <FIELD5>done</FIELD5>
+  </row>
+  <row>
+    <ORDER>444</ORDER>
+    <FIELD2>1320</FIELD2>
+    <FIELD3>10/15/2023</FIELD3>
+    <FIELD4>12/25/2023</FIELD4>
+    <FIELD5>pending</FIELD5>
+  </row>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <HOME>home_id</HOME>
+    <FIELD2>square_feet</FIELD2>
+    <FIELD3>Price</FIELD3>
+    <FIELD4>type</FIELD4>
+  </row>
+  <row>
+    <HOME>2825</HOME>
+    <FIELD2>1500</FIELD2>
+    <FIELD3>20000</FIELD3>
+    <FIELD4>single room</FIELD4>
+  </row>
+  <row>
+    <HOME>2610</HOME>
+    <FIELD2>2000</FIELD2>
+    <FIELD3>25000</FIELD3>
+    <FIELD4>studio</FIELD4>
+  </row>
+  <row>
+    <HOME>2987</HOME>
+    <FIELD2>1000</FIELD2>
+    <FIELD3>12500</FIELD3>
+    <FIELD4>singlr room</FIELD4>
+  </row>
+  <row>
+    <HOME>1320</HOME>
+    <FIELD2>1200</FIELD2>
+    <FIELD3>18000</FIELD3>
+    <FIELD4>studio</FIELD4>
+  </row>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Supplier>Supplier_ID</Supplier>
+    <FIELD2>Company_name</FIELD2>
+    <FIELD3>materials</FIELD3>
+    <FIELD4>Quantity</FIELD4>
+    <FIELD5>Location</FIELD5>
+  </row>
+  <row>
+    <Supplier>98787</Supplier>
+    <FIELD2>california container company</FIELD2>
+    <FIELD3>cardboard</FIELD3>
+    <FIELD4>1000</FIELD4>
+    <FIELD5>California</FIELD5>
+  </row>
+  <row>
+    <Supplier>45324</Supplier>
+    <FIELD2>green doors</FIELD2>
+    <FIELD3>doors</FIELD3>
+    <FIELD4>50</FIELD4>
+    <FIELD5>phoenix</FIELD5>
+  </row>
+  <row>
+    <Supplier>345345</Supplier>
+    <FIELD2>manufatureing plant</FIELD2>
+    <FIELD3>insulation</FIELD3>
+    <FIELD4>400</FIELD4>
+    <FIELD5>Mount vernon</FIELD5>
+  </row>
+  <row>
+    <Supplier>353256</Supplier>
+    <FIELD2>los angeles paper</FIELD2>
+    <FIELD3>cardboard</FIELD3>
+    <FIELD4>500</FIELD4>
+    <FIELD5>LA</FIELD5>
+  </row>
+</root>

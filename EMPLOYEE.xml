@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Employee>Employe_id</Employee>
+    <FIELD2>Name</FIELD2>
+    <FIELD3>Role</FIELD3>
+    <FIELD4>Joining_date</FIELD4>
+  </row>
+  <row>
+    <Employee>987</Employee>
+    <FIELD2>RAVI</FIELD2>
+    <FIELD3>EXECUTIVE</FIELD3>
+    <FIELD4>11/15/2023</FIELD4>
+  </row>
+  <row>
+    <Employee>356</Employee>
+    <FIELD2>DEEKSHA</FIELD2>
+    <FIELD3>ADMINISTRATOR</FIELD3>
+    <FIELD4>11/5/2023</FIELD4>
+  </row>
+  <row>
+    <Employee>574</Employee>
+    <FIELD2>MANI</FIELD2>
+    <FIELD3>ARCHITECHT</FIELD3>
+    <FIELD4>10/10/2023</FIELD4>
+  </row>
+  <row>
+    <Employee>767</Employee>
+    <FIELD2>DAVID</FIELD2>
+    <FIELD3>DESIGNER</FIELD3>
+    <FIELD4>10/25/2023</FIELD4>
+  </row>
+</root>
