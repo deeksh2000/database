@@ -1,6 +1,0 @@
-Delivery,,,,
-delivery_id,order_id,delivery_time,customer_address,delivery_status
-34,345,5:00,remeoville,deliverd
-56,567,7:10,neperville,About to reach location
-76,789,9:15,downersgrove,stated from location
-32,432,6:30,joliet,delivered
